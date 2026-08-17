@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-g7avgl.cnkitawin.online/sitemap.xml
